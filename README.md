@@ -75,7 +75,3 @@ The main class handling game logic and rendering.
 
 ## License
 This project is licensed under the MIT License. Feel free to modify and distribute it as needed.
-
-## Author
-[Your Name](https://github.com/yourusername)
-
